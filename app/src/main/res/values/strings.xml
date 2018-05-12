@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="Plus3_Points">FIELD GOAL</string>
+    <string name="Plus2_Points">EXTRA POINT</string>
+    <string name="Plus1_points">SAFTEY</string>
+    <string name="Plus6_Points">TOUCH DOWN</string>
+    <string name="TeamA">EAGLES</string>
+    <string name="Zero">0</string>
+    <string name="TeamB">PATRIOTS</string>
+    <string name="Reset">Reset</string>
+</resources>
